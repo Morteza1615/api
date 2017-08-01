@@ -13,7 +13,14 @@
 <h4 dir="rtl">1️⃣برای ست کردن توکن ربات در find what: codertm1 را درج کنید ودر Replace with توکن ربات خود را قرار دهید. و در اخر در سمت راست بر روی Replace all بفشارید
 <h4 dir="rtl">2️⃣و برای ست کردن آیدی ادمین در قسمت find what: Codertm2 را درج کنید و در replace with آیدی عددی خود را قرار دهید و ماننده مرحله قبلی متن خود را جابجا کنید و حتما مراحل کار خود را ذخیر کنید.
 <br>➖➖➖➖➖➖➖➖➖➖➖➖<br>
-<h3 align="right">🔸اموزش های بیش تر در کانال🔹
+اموزش های بیش تر در کانال
+
+# [_آموزش نصب سورس_](https://telegram.me/CoderTeam)
+
+
+###  *Telegram channel*:
+
 # [✔CoderTeam](https://telegram.me/CoderTeam)
+
 * * *
 》*ستاره یادتون نره😉*
